@@ -1,0 +1,32 @@
+CHANGELOG — Resonance Operating System (ROS)
+
+---
+
+## v1.0 — Canonical Release (2025)
+
+• First public release  
+• Complete system architecture formalized  
+• All chapters and appendices unified  
+• Appendix H reconstructed  
+• Terminology normalized  
+• Meta-language removed  
+• Release files assembled (TXT, ZIP)  
+• LICENSE.txt added (CC BY-SA 4.0)  
+• README.md and RELEASE_NOTES_v1.0.txt created  
+• Repository structure established  
+
+---
+
+## Future Versions (Planned)
+
+### v1.1 — Clarification & Annotation Pass
+• Minor terminology clarifications  
+• Expanded operator examples  
+• Optional diagrams and schemas  
+
+### v2.0 — Structural Extensions
+• Extended ecological frameworks  
+• Multi-model resonance protocols  
+• Advanced drift correction mechanisms  
+
+(These items are placeholders — future development will define scope.)
