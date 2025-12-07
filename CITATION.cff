@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Resonance Operating System (ROS): Canonical Specification v1.0"
+message: "If you use ROS in your research, software, writing, or derivative work, please cite this release."
+authors:
+  - family-names: "ROS Collective"
+    given-names: ""
+    affiliation: ""
+    email: "ros.collective@proton.me"
+version: "1.0"
+date-released: "2025-12-07"
+license: "CC-BY-SA-4.0"
+url: "https://github.com/RosCollective/Resonance-OS"
+preferred-citation:
+  type: "manual"
+  title: "Resonance Operating System (ROS) — Version 1.0: Canonical Release"
+  authors:
+    - family-names: "ROS Collective"
+  year: 2025
+  publisher: "ROS Collective"
